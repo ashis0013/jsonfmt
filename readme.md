@@ -6,3 +6,7 @@ I hope you have node in your machine. If not install node and just install it wi
 chmod +x install.sh 
 ./install.sh
 ```
+And use it like this
+```bash
+jsonfmt a.json
+```
